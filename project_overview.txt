@@ -1,0 +1,33 @@
+Project Title:	Spotify 2023 Data Analysis
+
+Team Members:
+
+Austin DeVore
+David Kogge
+Dan Kramer
+
+Project Description/Outline:
+
+We will be analyzing a comprehensive dataset of streaming information from Spotify on 2023 streams focused on the most popular artists for that year. There are quantitative elements including number of streams per song, number of songs per artist, etc., as well as qualitative elements, such as perceived danceability or "mood" of a song. Both types of data can be studied to answer interesting questions about users' listening habits in 2023.
+
+Research Questions to Answer:
+
+-Who were the most popular artists in 2023 by number of streams?
+
+-What was the distribution of listening based on year? - David combine 1/2
+
+Do songs in playlists get more listens than songs not on playlists?
+
+Do charts have an impact on popularity? Austin combine 3/4
+
+What factors were most popular for 2023? Is there a relation between factors?
+	
+What is the average BPM of the most listened to songs? Other BPM data Dan combine 5/6
+
+Datasets to be used:
+
+https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
+
+Breakdown - see questions above for members' focuses.
+
+
