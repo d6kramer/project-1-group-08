@@ -8,6 +8,8 @@ Dan Kramer
 
 ### Project Description/Outline:
 
+The notebook file for analysis is named "starter_notebook.ipynb"
+
 We will be analyzing a comprehensive dataset of streaming information from Spotify on 2023 streams focused on the most popular artists for that year. There are quantitative elements including number of streams per song, number of songs per artist, etc., as well as qualitative elements, such as perceived danceability or "mood" of a song. Both types of data can be studied to answer interesting questions about users' listening habits in 2023.
 
 Collaborators will split research and analysis of the dataset into the following categories, with findings summarized below:
@@ -68,34 +70,3 @@ The characteristics provided by the Spotify API included danceability, valence (
 
 When considering the analysis of all of the musical characteristics in aggregate, it appears that Spotify users were most heavily drawn to high energy, upbeat, positive music that showcased positive vibes and was quite danceable. They also picked songs that were brisk without being aggressively fast, suggesting the music could compliment moderately physical activities, such as dancing or working out. It is also possible that listeners more often than not were seeking a "pick-me-up" or positive energy association with their music choices, rather than being conmtemplative or dark. Without qualitative surveys of listeners, or further information regarding how musical characteristic percentages are assigned, it is difficult to make more specific conclusions, or to test our initial findings. 
 
-
-
-
-–Research Questions to Answer:
-
-Who were the most popular artists in 2023 by number of streams?
-
-What was the distribution of listening based on year? - David
-
-Do songs in playlists get more listens than songs not on playlists?
-
-Do charts have an impact on popularity? Austin 
-
- What factors were most popular for 2023? Is there a relation between factors?
-i.e., which types of songs were listened to more? Fast/Major vs Slow/minor, high danceability, low “speechiness,” etc. What is the average BPM of the most *
-listened to songs? How did this compare to other qualities? Dan
-
-*Questions are intended to be “sharpened” into more specific ideas as these are the exploratory starting points.*
-
-
-–Datasets to be used:
-
-https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
-
-—Breakdown 
-
-Data Cleaning - Initial cleaning opportunities by all three members
-
-Questions/Analysis - See questions above for members' focuses. Each member will conduct their own analysis on a portion and create their respective charts and summaries.
-
-Presentation - one person (TBA) to give a brief overview at the start of the presentation. Then each member will present their analysis.
