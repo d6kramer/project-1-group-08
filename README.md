@@ -18,6 +18,20 @@ Austin: Chart and playlist appearance on various platforms' relationship to song
 
 Dan: Analysis of musical characteristics to determine most popular traits of songs steamed in 2023
 
+### Analysis of song and artist popularity - David
+
+#### Question: Who were the most popular artists in 2023 by number of streams?
+
+The sample consisted of 952 songs with 802 unique artists.  An analysis of all the artists in the sample was completed and the most prolific artist was Bad Bunny with 41 songs.  An analysis of streams over 1 billion included 152 songs with 137 unique artists. The top artist with songs over 1 billion streams was also Bad Bunny with 8 songs. An analysis of streams over 2 billion was also completed that included 31 songs with 33 unique artists. For this sample Ed Sheeran was the top artist with 4 songs surpassing 2 billion streams.
+
+The artists represented in each of the samples were different with only the Weeknd making all three groups.  There was very little overlap between the different samples.  Interesting next questions could focus on individual artists with many songs in the sample. To see how the number of songs correlated to the number of streams.  Could also look at artists that did not have collaborators and see how their songs performed.  Also, for the top artists in the over 2 billion sample how their other songs performed, did they just have a few extremely popular songs?  
+
+#### Question: What was the distribution of listening based on year?
+
+The sample had a wide range of release years in the streams.  The highest represented year was 2022 with 402 songs, followed by 2023 with 175 songs and the 2010s with 144 songs.  There were songs going all the way back to 1930, although most of the songs released before 1960 were Christmas songs.  For streams over 1 billion there was a clear leader with 70 songs released in the 2010s followed by 22 released in 2021.  2023 only had 1 song with over 1 billion streams (Flowers by Miley Cyrus).  For streams over 2 billion 26 of the 31 songs were released in the 2010s.  There are 2 songs from the 1970s, Bohemian Rhapsody by Queen and what I believe to be a data error on the release date of Riptide by Vance Joy.  
+
+Interesting next questions could be to look at the distribution of streams by release year or to do a further analysis on the songs from 2010 and see if there is other information to be gathered about why those continue to have such popularity.
+
 ### Analysis of the effects on number of playlists a song appears and the ranking of a song in the charts - Austin
 
 This analysis focuses on the effects on number of playlists a song appears and the ranking of a song in the charts.  Each platform has a count of the number of times a song appears in a playlist.  The platform also provides a ranking of the song within their respective charts. 
